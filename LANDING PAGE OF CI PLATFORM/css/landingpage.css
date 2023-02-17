@@ -17,10 +17,43 @@ img.rounded-circle {
     height: 50px;
 }
 
+.apply {
+    border: 2px solid orange;
+    border-radius: 30px;
+    margin-left: 50%;
+    color: orange;
+}
+
+.img1 {
+    width: 25px;
+    height: 25px;
+}
+
+.arrow {
+    color: orange;
+}
+
+.duration {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 #prof-drop {
     position: absolute;
     right: 5px;
     top: 3px;
+}
+
+.theme {
+    position: relative;
+    border: 1px solid white;
+    background-color: white;
+    bottom: 16px;
+    padding: 4px;
+    margin: auto;
+    border: 33px;
+    border-radius: 21px;
 }
 
 #search-border {
@@ -42,9 +75,4 @@ img.rounded-circle {
     .dropdown-border {
         border: none;
     }
-}
-
-.missions {
-    padding: 4%;
-    margin-top: -10px;
 }
