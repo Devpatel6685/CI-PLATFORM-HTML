@@ -27,6 +27,7 @@
 }
 
 .filter-list {
+    /* padding:6px 10px;  */
     background-color: white;
     border: 1px solid #808080;
     border-radius: 20px;
